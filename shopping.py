@@ -12,4 +12,5 @@ while(True):
     print("Shopping List : ")
     for item in shopping_list:
         print(item)
-        
+ #Total item in shopping list
+print("total no. of items ",len(shopping_list))
